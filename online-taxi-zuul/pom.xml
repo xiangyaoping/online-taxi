@@ -35,7 +35,7 @@
 			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
 		</dependency>
 		
-		<!-- 引入sleuth依赖 -->
+		<!-- 引入sleuth依赖（微服务链路追踪） -->
 		<!-- <dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-sleuth</artifactId>
